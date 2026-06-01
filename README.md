@@ -18,7 +18,8 @@
 
 ## 👁️ Preview
 
-> *blob:https://gemini.google.com/37e8f71b-6af4-42cc-9b54-5ceaa4f9d70e*
+<img width="212" height="39" alt="S-CM" src="https://github.com/user-attachments/assets/c0d000f2-ac2e-414b-be72-bd55c5a81f27" />
+
 
 ---
 
