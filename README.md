@@ -18,7 +18,7 @@
 
 ## 👁️ Preview
 
-> *(🖼️ Jenderal, ganti teks ini atau tambahkan link screenshot widget S-CM kamu di sini biar makin kece!)*
+> *blob:https://gemini.google.com/37e8f71b-6af4-42cc-9b54-5ceaa4f9d70e*
 
 ---
 
