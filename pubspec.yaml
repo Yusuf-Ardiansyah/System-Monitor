@@ -1,0 +1,44 @@
+name: s_cm
+description: "A new Flutter project."
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.11.5
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.8
+  window_manager: ^0.5.1
+  launch_at_startup: ^0.5.1
+  package_info_plus: ^9.0.1
+  screen_retriever: ^0.2.0
+  win32: ^5.15.0
+  ffi: ^2.2.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0
+
+  # ==========================================
+  # 🔥 BUMBU GANTI IKON APP
+  # ==========================================
+  flutter_launcher_icons: ^0.13.1
+
+# ==========================================
+# 🔥 KAMAR KHUSUS IKON (MENTOK KIRI) 🔥
+# ==========================================
+flutter_launcher_icons:
+  windows:
+    generate: true
+    image_path: "assets/images/logo_yusuf.png"
+    icon_size: 256
+
+flutter:
+  uses-material-design: true
+
+  # Direktori aset
+  assets:
+    - assets/images/logo_yusuf.png
